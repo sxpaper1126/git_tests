@@ -1,2 +1,1 @@
-it is a.text file
-insert into command line
+it is a.text
